@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: everestp/node-app:latest
+    image: everestp/node-todo-test:latest
     ports:
       - "8000:8000"
